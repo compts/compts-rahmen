@@ -1,0 +1,28 @@
+{
+  "name": "compts-rahmen",
+  "version": "1.3.5",
+  "description": "JS MVVM framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compts/compts-rahmen.git"
+  },
+  "keywords": [
+    "compt"
+  ],
+  "author": "Pein Freccs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compts/compts-rahmen/issues"
+  },
+  "homepage": "https://github.com/compts/compts-rahmen#readme",
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+    
+  }
+}
